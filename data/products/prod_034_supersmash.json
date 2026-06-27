@@ -1,0 +1,18 @@
+{
+    "product_id": "prod_034",
+    "name": "Quantum Spin 360 Edgeless",
+    "category": "paddles",
+    "brand": "Quantum",
+    "price": 185.00,
+    "description": "An aerodynamic, edgeless paddle engineered for maximum swing speed and incredible spin generation.",
+    "specifications": {
+      "weight": "7.9 oz",
+      "grip_size": "4.125 in",
+      "face_material": "Raw Carbon Fiber",
+      "core": "Polymer Honeycomb",
+      "shape": "Standard",
+      "length": "15.9 in",
+      "width": "8.1 in"
+    },
+    "care_instructions": "Wipe face with microfiber cloth. Use a paddle eraser to clean carbon fiber grooves."
+}

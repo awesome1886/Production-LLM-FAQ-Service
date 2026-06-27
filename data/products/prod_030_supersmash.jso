@@ -1,0 +1,17 @@
+{   "product_id": "prod_030",
+    "name": "SuperSmash Ninja Paddle",
+    "category": "paddles",
+    "brand": "SuperSmash",
+    "price": 150.00,
+    "description": "A top-secret paddle used by pickleball ninjas.",
+    "specifications": {
+      "weight": "7.5 oz",
+      "grip_size": "4.25 in",
+      "face_material": "Carbon Fiber",
+      "core": "Polymer",
+      "shape": "elongated",
+      "length": "16.5 in",
+      "width": "7.5 in"
+    },
+    "care_instructions": "Keep away from throwing stars."
+}

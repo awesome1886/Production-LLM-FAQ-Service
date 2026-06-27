@@ -1,0 +1,15 @@
+{
+  "product_id": "prod_032",
+  "name": "AeroGlide Pickleball Court Shoes",
+  "category": "shoes",
+  "brand": "AeroGlide",
+  "price": 119.50,
+  "description": "Premium court shoes featuring reinforced lateral support and a high-grip rubber outsole for quick pivoting.",
+  "specifications": {
+    "weight": "12.4 oz",
+    "sole_type": "Non-marking rubber",
+    "cushioning": "EVA foam midsole",
+    "closure": "Lace-up"
+  },
+  "care_instructions": "Wipe with a damp cloth after use. Air dry. Do not put in washing machine."
+}

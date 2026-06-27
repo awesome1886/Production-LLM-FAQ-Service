@@ -1,0 +1,15 @@
+{
+    "product_id": "prod_033",
+    "name": "Tournament Master Sling Bag",
+    "category": "accessories",
+    "brand": "ThirdShotGear",
+    "price": 55.00,
+    "description": "A compact but spacious sling bag that holds up to 3 paddles, 6 balls, and includes a thermal-lined pocket for a water bottle.",
+    "specifications": {
+      "dimensions": "19 x 13 x 6 in",
+      "material": "Water-resistant nylon",
+      "capacity": "25L",
+      "compartments": "4"
+    },
+    "care_instructions": "Spot clean only with mild soap and water. Hang to dry."
+}

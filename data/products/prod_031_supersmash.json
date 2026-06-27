@@ -1,0 +1,15 @@
+{
+    "product_id": "prod_031",
+    "name": "CourtKing Pro Dri-Fit Tee",
+    "category": "apparel",
+    "brand": "CourtKing",
+    "price": 35.99,
+    "description": "A lightweight, moisture-wicking athletic shirt designed specifically for the rigorous movement of pickleball.",
+    "specifications": {
+      "material": "90% Polyester, 10% Spandex",
+      "fit": "Athletic",
+      "sizes_available": "S, M, L, XL, XXL",
+      "color": "Neon Green"
+    },
+    "care_instructions": "Machine wash cold with like colors. Tumble dry low. Do not iron logos."
+}
